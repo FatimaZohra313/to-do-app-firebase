@@ -1,0 +1,48 @@
+.container{
+    display: block;
+    
+}
+body{
+    color: black;
+    background-image: url(images/image.jpg);
+    align-items: center;
+    font-family: 'Times New Roman', Times, serif;
+    /* background-size: cover; */
+
+    /* background-size: cover; */
+}
+#h1{
+    color: black;
+    text-align: center;
+    margin-top: 100px;
+    font-size: xx-large;
+}
+#inp{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding: 10px;
+    margin-left: 10px;
+    border: 3px solid grey;
+    margin-top: 30px;
+
+    
+}
+button{
+    /* display: block; */
+
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+ul{
+   text-align: center;
+   list-style: none;
+}
+button{
+    background-color: slategray;
+    color: white;
+    margin-left: 10px;
+    padding: 10px;
+    
+}
